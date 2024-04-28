@@ -1,6 +1,6 @@
 {
     "name": "zz-img-caption",
-    "version": "0.0.1",
+    "version": "0.0.2",
     "author": "Zeke Zhang",
     "description": "CLI tool for image caption using BLIP & BLIP2",
     "url": "https://github.com/sean1832/img-caption"
